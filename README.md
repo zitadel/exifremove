@@ -1,5 +1,6 @@
 # go-exif-remove
-[![Build Status](https://img.shields.io/circleci/project/github/scottleedavis/go-exif-remove/master.svg)](https://circleci.com/gh/scottleedavis/go-exif-remove) [![codecov](https://codecov.io/gh/scottleedavis/go-exif-remove/branch/master/graph/badge.svg)](https://codecov.io/gh/scottleedavis/go-exif-remove)  [![GoDoc](https://godoc.org/github.com/scottleedavis/go-exif-remove?status.svg)](https://godoc.org/github.com/scottleedavis/go-exif-remove)
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/zitadel/exifremove.svg)](https://pkg.go.dev/github.com/zitadel/exifremove)
 
 
 Removes EXIF information from JPG and PNG files
