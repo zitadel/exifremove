@@ -1,7 +1,7 @@
 # go-exif-remove
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/zitadel/exifremove.svg)](https://pkg.go.dev/github.com/zitadel/exifremove)
-
+[![codecov](https://codecov.io/gh/zitadel/exifremove/graph/badge.svg?token=0Maqd3Crv0)](https://codecov.io/gh/zitadel/exifremove)
 
 Removes EXIF information from JPG and PNG files
 
