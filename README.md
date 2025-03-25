@@ -7,8 +7,12 @@ Removes EXIF information from JPG and PNG files
 
 Uses [go-exif](https://github.com/dsoprea/go-exif) to extract EXIF information and overwrites the EXIF region.
 
+> [!NOTE]  
+> This package was originally hosted at `github.com/scottleedavis/go-exif-remove` and got removed.
+> In this repository we restored a copy out of the Go module cache and continued maintenance.
+
 ```go
-import 	"github.com/scottleedavis/go-exif-remove"
+import 	"github.com/zitadel/go-exif-remove"
 
 noExifBytes, err := exifremove.Remove(imageBytes)
 ```
