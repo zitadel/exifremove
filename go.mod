@@ -1,6 +1,6 @@
 module github.com/zitadel/exifremove
 
-go 1.25.5
+go 1.24.11
 
 require (
 	github.com/dsoprea/go-exif v0.0.0-20230826092837-6579e82b732d
@@ -19,9 +19,9 @@ require (
 	github.com/dsoprea/go-utility v0.0.0-20221003172846-a3e1774ef349 // indirect
 	github.com/go-errors/errors v1.5.1 // indirect
 	github.com/go-xmlfmt/xmlfmt v1.1.3 // indirect
-	github.com/golang/geo v0.0.0-20250319145452-ed1c8b99c3d7 // indirect
+	github.com/golang/geo v0.0.0-20251125140653-09e2dd3603dd // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
