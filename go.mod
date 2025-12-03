@@ -1,6 +1,6 @@
 module github.com/zitadel/exifremove
 
-go 1.24.11
+go 1.24.10
 
 require (
 	github.com/dsoprea/go-exif v0.0.0-20230826092837-6579e82b732d
